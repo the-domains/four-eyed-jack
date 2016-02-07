@@ -1,0 +1,14 @@
+layout_spectrum: 0.8941998
+color:
+  saturation: 0.7083781
+  lightness: 0.3539205
+  brandStrength: 0.349624
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#CC171E'
+    - '#303030'
+    - '#5D5D5D'
+  rhythmicContrast: 0.2894737
+typography_spectrum: 0.4398496
+name: Four Eyed Jack

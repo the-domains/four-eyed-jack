@@ -1,8 +1,19 @@
-layout_spectrum: 0.8941998
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.7083781
+  brandStrength: 0.05209452
   lightness: 0.3539205
-  brandStrength: 0.349624
   brandColors:
     - '#FFFFFF'
     - '#000000'
@@ -11,4 +22,5 @@ color:
     - '#5D5D5D'
   rhythmicContrast: 0.2894737
 typography_spectrum: 0.4398496
+layout_spectrum: 0.6063373
 name: Four Eyed Jack
